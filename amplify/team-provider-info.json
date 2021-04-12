@@ -34,5 +34,23 @@
         "todolistawsfe030295": {}
       }
     }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-todolistaws-prod-233730-authRole",
+      "UnauthRoleArn": "arn:aws:iam::211041159747:role/amplify-todolistaws-prod-233730-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::211041159747:role/amplify-todolistaws-prod-233730-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-todolistaws-prod-233730-deployment",
+      "UnauthRoleName": "amplify-todolistaws-prod-233730-unauthRole",
+      "StackName": "amplify-todolistaws-prod-233730",
+      "StackId": "arn:aws:cloudformation:us-east-1:211041159747:stack/amplify-todolistaws-prod-233730/6a186d10-9b40-11eb-afab-0af47575f89b",
+      "AmplifyAppId": "d3rlo8edlqtfm7"
+    },
+    "categories": {
+      "auth": {
+        "todolistawsfe030295": {}
+      }
+    }
   }
 }
